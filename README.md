@@ -62,10 +62,10 @@ Generated synthetic but realistic data:
 
 ## 📈 Charts (via pgAdmin / DBeaver)
 
-| Image File                | Chart Type       | Description                          |
-|---------------------------|------------------|--------------------------------------|
-| `monthly_revenue_line.png`| 📈 Line Chart     | Monthly revenue trend                |
-| `region_bar_chart.png`    | 📊 Bar Chart      | Revenue distribution by region       |
+![Monthly Revenue Line Chart](monthly_revenue_line.png.jpg)
+
+![Revenue by Region Bar Chart](region_bar_chart.png.jpg)
+
 
 ---
 
