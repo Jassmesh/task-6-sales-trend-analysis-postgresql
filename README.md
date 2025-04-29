@@ -63,7 +63,7 @@ Generated synthetic but realistic data:
 ## 📈 Charts (via pgAdmin / DBeaver)
 
 ### Monthly Revenue Line Chart
-![Monthly Revenue Line Chart](monthly_revenue_line.png.jpg)
+![Monthly Revenue Line Chart](monthly_revenue_line.jpg)
 
 ### Revenue by Region Bar Chart
 ![Revenue by Region Bar Chart](region_bar_chart.png.jpg)
